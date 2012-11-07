@@ -1,0 +1,27 @@
+1	2	3	4	4 total processes killed (some possibly by mpirun during cleanup)
+5	5 total processes killed (some possibly by mpirun during cleanup)
+6	6 total processes killed (some possibly by mpirun during cleanup)
+7	7 total processes killed (some possibly by mpirun during cleanup)
+8	8 total processes killed (some possibly by mpirun during cleanup)
+9	9 total processes killed (some possibly by mpirun during cleanup)
+10	10 total processes killed (some possibly by mpirun during cleanup)
+11	11 total processes killed (some possibly by mpirun during cleanup)
+12	13	13 total processes killed (some possibly by mpirun during cleanup)
+14	14 total processes killed (some possibly by mpirun during cleanup)
+15	15 total processes killed (some possibly by mpirun during cleanup)
+16	1	9.93	0.02	9.88	99%
+2	5.33	0.11	10.49	198%
+3	5.18	1.35	14.03	296%
+4	4.31	1.11	15.62	387%
+5	7.24	8.05	16.48	338%
+6	6.44	5.06	16.08	328%
+7	5.83	3.18	15.78	325%
+8	5.33	1.17	15.76	317%
+9	6.56	4.76	17.04	332%
+10	6.28	4.36	15.88	322%
+11	5.88	3.41	15.67	324%
+12	5.47	2.29	15.17	318%
+13	5.95	3.82	15.54	325%
+14	6.26	3.76	16.68	326%
+15	5.93	3.31	15.88	323%
+16	5.48	1.45	16.03	319%
